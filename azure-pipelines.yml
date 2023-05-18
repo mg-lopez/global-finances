@@ -15,7 +15,7 @@ variables:
   webAppName: 'globalfinance'
 
   # Environment name
-  environmentName: ''
+  environmentName: 'mg-lopez'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
