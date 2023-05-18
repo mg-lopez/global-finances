@@ -12,7 +12,7 @@ variables:
   azureSubscription: 'ac625564-56a1-4279-83d3-1accd87b9f6d'
 
   # Web app name
-  webAppName: ''
+  webAppName: 'global-finance'
 
   # Environment name
   environmentName: ''
